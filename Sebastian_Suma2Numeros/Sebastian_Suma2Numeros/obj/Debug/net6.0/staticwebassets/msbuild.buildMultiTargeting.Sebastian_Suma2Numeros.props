@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sebastian_Suma2Numeros.props" />
+</Project>

@@ -7,7 +7,7 @@ namespace Sebastian_Suma2Numeros.Pruebas_Unitarias
     public class MetodoSumaTest
     {
         [TestMethod]
-        public void TestSumar_PositiveNumbers()
+        public void TestSumar1()
         {
             var controller = new SebastianApesaController();
             int num1 = 1;
@@ -19,7 +19,7 @@ namespace Sebastian_Suma2Numeros.Pruebas_Unitarias
         }
 
         [TestMethod]
-        public void TestSumar_NegativeAndPositiveNumbers()
+        public void TestSumar2()
         {
             var controller = new SebastianApesaController();
             int num1 = -1;
@@ -28,6 +28,17 @@ namespace Sebastian_Suma2Numeros.Pruebas_Unitarias
             int result = controller.Sumar(num1, num2);
 
             Assert.AreEqual(1, result, "La suma de -1 y 2 debe ser igual a 1.");
+        }
+
+        public void TestSumar3()
+        {
+            var controller = new SebastianApesaController();
+            int num1 = 0;
+            int num2 = 0;
+
+            int result = controller.Sumar(num1, num2);
+
+            Assert.AreEqual(0, result, "La suma de 0 y 0 debe ser igual a 0.");
         }
     }
 }

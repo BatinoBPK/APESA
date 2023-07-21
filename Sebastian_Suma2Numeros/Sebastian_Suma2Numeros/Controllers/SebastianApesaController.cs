@@ -44,6 +44,7 @@ namespace Sebastian_Suma2Numeros.Controllers
 
             string escritorio = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
+            //Guarda datos en el escritorio con el nombre de archivo Sebastian_DatosPersonales.txt
             string path = Path.Combine(escritorio, "Sebastian_DatosPersonales.txt");
 
             try

@@ -514,11 +514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Documents\\Sebastian TICH\\Programacion\\TICH\\S5+Insercion\\Sebastian_Suma2Numeros\\Sebastian_Suma2Numeros\\Sebastian_Suma2Numeros.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\Sebastian Apesa\\APESA\\Sebastian_Suma2Numeros\\Sebastian_Suma2Numeros\\Sebastian_Suma2Numeros.csproj",
       "projectName": "Sebastian_Suma2Numeros",
-      "projectPath": "C:\\Users\\PC\\Documents\\Sebastian TICH\\Programacion\\TICH\\S5+Insercion\\Sebastian_Suma2Numeros\\Sebastian_Suma2Numeros\\Sebastian_Suma2Numeros.csproj",
+      "projectPath": "C:\\Users\\PC\\Documents\\Sebastian Apesa\\APESA\\Sebastian_Suma2Numeros\\Sebastian_Suma2Numeros\\Sebastian_Suma2Numeros.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Documents\\Sebastian TICH\\Programacion\\TICH\\S5+Insercion\\Sebastian_Suma2Numeros\\Sebastian_Suma2Numeros\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\Sebastian Apesa\\APESA\\Sebastian_Suma2Numeros\\Sebastian_Suma2Numeros\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
